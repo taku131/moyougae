@@ -1,0 +1,45 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# IDE and editor generated files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vsconfig
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity and local temporary files
+sysinfo.txt
+*.stackdump
+TempAssembly.dll
+
+# Build artifacts
+apk/
+*.apk
+*.aab
+*.unitypackage
+
+# Imported package samples are not needed for the public project source.
+Assets/Samples/
